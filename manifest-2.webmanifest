@@ -1,0 +1,11 @@
+{
+  "name": "pega28",
+  "short_name": "pega28",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3ee",
+  "theme_color": "#16324f",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
